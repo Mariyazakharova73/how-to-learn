@@ -248,7 +248,8 @@
   min-height: 350px;
   display: flex;
   margin: auto;
-  }
+  box-sizing: border-box;
+}
 
 .footer__columns {
   width: 90%;
