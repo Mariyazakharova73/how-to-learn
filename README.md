@@ -15,5 +15,5 @@ HTML5, CSS3, создана файловая структура по БЭМ (Nes
 
 **Cсылка на страницу проекта**
 
-* [Ссылка: "Научиться учиться"](/index.html)
+* [Ссылка: "Научиться учиться"](https://mariyazakharova73.github.io/how-to-learn/index.html)
 
